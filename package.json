@@ -1,0 +1,17 @@
+{
+  "name": "bot_events",
+  "version": "1.0.0",
+  "main": "fcntp_events_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fcntp_events_bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "request": "^2.88.2"
+  }
+}
